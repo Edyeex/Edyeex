@@ -5,7 +5,7 @@
 
 
 
-👋 Olá, eu sou @Edyeex
+-👋 Olá, eu sou @Edyeex
 - 👀 Tenho interesse em Python
 - 🌱 Atualmente estou aprendendo python, php e Mysql
 - 💞️ Estou procurando um possivel primeira oportunidade de carreira
