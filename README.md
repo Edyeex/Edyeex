@@ -1,10 +1,11 @@
 <!-- Titulo -->
+##
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Welcome to my profile</h1></summary>
 </div>
 
-###
+##
 - Eu sou o Éder Casagranda 😎
 <!-- Detalhes -->
 <details>
@@ -16,10 +17,11 @@
   - ⚡ No meu tempo livre eu gosto de desenhar, andar de skate, fazer algumas atividades fisicas e é claro, a o melhor de todos ... dormir💤. \o/
 </details>    
 
+##
 <!-- Estatisticas -->
 ![Éder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyeex&show_icons=true&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edyeex&show_icons=true&theme=shadow_red&layout=compact)
-
+##
 <!-- contatos -->
 ## Onde me achar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9der-casagranda-8777ba261/)
