@@ -7,15 +7,6 @@
 
 ##
 - Eu sou o Éder Casagranda 😎
-<!-- Detalhes -->
-<details>
-  <summary>👨‍💻Mais sobre mim: </summary>
-  
-  - Atualmente eu estou cursando Analise e Desenvolvimento de Sistemas 📚
-  - Estou em busca do meu primeiro emprego 💸
-  - Gosto de COBOL, sim... COBOL...
-  - ⚡ No meu tempo livre eu gosto de desenhar, andar de skate, fazer algumas atividades fisicas e é claro, a o melhor de todos ... dormir💤. \o/
-</details>    
 
 ##
 <!-- Estatisticas -->
