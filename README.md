@@ -9,7 +9,7 @@
 
 ##
 <!-- Estatisticas -->
-![Éder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyeex&show_icons=true&theme=shadow_red)
+<!--![Éder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edyeex&show_icons=true&theme=shadow_red) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edyeex&show_icons=true&theme=shadow_red&layout=compact)
 ##
 <!-- contatos -->
