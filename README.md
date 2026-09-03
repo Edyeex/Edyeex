@@ -57,12 +57,22 @@ e também através do meu Instagram "[@eder.c_](https://www.instagram.com/eder.c
 
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 <br/>
 <br/>
 
