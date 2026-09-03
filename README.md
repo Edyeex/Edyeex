@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Éder Casagranda, tenho 26 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ULBRA. Sou apaixonado por tecnologia e aqui compartilho meu conhecimento e meus aprendizados.
+Me chamo Éder Casagranda, tenho 27 anos e sou do Rio Grande do Sul. Sou formado em Análise e Desenvolvimento de Sistemas na ULBRA. Sou apaixonado por tecnologia e aqui compartilho meu conhecimento e meus aprendizados.
 Você pode me encontrar no LinkedIn "[Éder Casagranda](https://www.linkedin.com/in/edercasagranda-dev/)"
 e também através do meu Instagram "[@eder.c_](https://www.instagram.com/eder.c_/)".
 
@@ -46,7 +46,23 @@ e também através do meu Instagram "[@eder.c_](https://www.instagram.com/eder.c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Nodejs" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 <br/>
 <br/>
 
